@@ -3,7 +3,7 @@ Source for my Kingdom Death: Monster mod for Tabletop Simulator (link TODO)
 
 Usage:
 - Put in a folder names Kdm.
-- In the parent node, call: luabundler bundle Global.ttslua -p ?.ttslua -o bundle.ttslua
+- In the parent node, call: luabundler bundle Kdm/Global.ttslua -p ?.ttslua -o bundle.ttslua
 - Copy & paste the result into the in-game sript editor (use ctrl+A)
 
 # Version 1.0
